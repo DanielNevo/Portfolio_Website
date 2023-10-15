@@ -24,7 +24,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import FeedMe from  "./Feed_me.jpeg"
+import FeedMe from  "./Feed_me.png"
 import chat from "./chat.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
